@@ -1,9 +1,25 @@
-We got an opportunity to work on the Affordable Housing Solutions; hosted by Seneca Housing Hackathon 2024 and made it to Finals. It was an incredible experience with numerous tech information and entrepreneurship. We came up with the solution of providing clarity on different Canadian cities and the field of comparison of different cities via integrating the Machine learning Model. 
+# Affordable Housing Solutions - Seneca Housing Hackathon 2024
 
-Tech Stack: React, Next.js, Python
-Learning Outcomes:
-Entrepreneurship: Any tech startup/project should also have well-defined revenue generation documentation to attract investors. (Should also define the business perception.)
-Presentation Matters: We should present in a clear, concise, and professional manner as well as the ability your idea. 
+We are excited to announce that we have made it to the Finals of the Seneca Housing Hackathon 2024 with our project focusing on Affordable Housing Solutions. This experience has been incredibly rewarding, providing us with valuable insights into technology, entrepreneurship, and community engagement.
 
+## Project Overview
 
+Our solution aims to provide clarity on different Canadian cities and facilitate the comparison of various cities' housing affordability. We have achieved this by integrating a Machine Learning model into our platform, allowing users to make informed decisions when searching for affordable housing options.
+
+## Tech Stack
+
+- Frontend: React, Next.js
+- Backend: Python
+
+## Learning Outcomes
+
+### Entrepreneurship
+We understand the importance of having well-defined revenue generation strategies and business perceptions to attract investors. Our project includes thorough documentation outlining these aspects to ensure the viability and sustainability of our solution.
+
+### Presentation Matters
+We have learned the significance of presenting our ideas in a clear, concise, and professional manner. Effective communication is key to showcasing the potential of our solution and garnering support from stakeholders.
+
+## Application Link
+
+To explore our project, please visit [Affordable Housing Solutions](https://musical-puffpuff-48aa58.netlify.app).
 
